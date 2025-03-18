@@ -1,0 +1,6 @@
+#,maker,model,horsepower,engine_capacity,type
+1,Toyota,Camry,203,2.5,Car
+2,Yamaha,YZF-R1,200,1,Motorcycle
+3,Honda,Civic,158,2,Car
+4,Trek,Domane,,,Bicycle
+5,Giant,Defy,,,Bicycle

@@ -1,0 +1,11 @@
+#,id_customer,name,prefered_hotel_type,visited_hotels
+1,10,Hannah Montana,Дешевый,City Center Inn
+2,3,Alice Johnson,Средний,Grand Hotel
+3,4,Bob Brown,Средний,"Grand Hotel, Ocean View Resort"
+4,5,Charlie White,Средний,Ocean View Resort
+5,6,Diana Prince,Средний,Ocean View Resort
+6,2,Jane Smith,Средний,Grand Hotel
+7,1,John Doe,Средний,"City Center Inn, Grand Hotel"
+8,7,Ethan Hunt,Дорогой,"Mountain Retreat, Ocean View Resort"
+9,8,Fiona Apple,Дорогой,Mountain Retreat
+10,9,George Washington,Дорогой,"City Center Inn, Mountain Retreat"
